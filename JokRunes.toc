@@ -1,0 +1,7 @@
+## Interface: 70000
+## Title: JokRunes
+## Version: 0.1a
+## Author: jokre33
+## SavedVariables: JokRunes_Config
+
+JokRunes.lua
